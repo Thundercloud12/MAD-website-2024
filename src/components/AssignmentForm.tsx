@@ -6,7 +6,7 @@ import { Input } from "@/components/ui/input"
 import { Label } from "@/components/ui/label"
 import { Card, CardHeader, CardTitle, CardDescription, CardContent, CardFooter } from "@/components/ui/card"
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select"
-import { User, Mail, Phone, BookOpen, GraduationCap, Github, Globe, Instagram } from 'lucide-react'
+import { User, Mail, Phone, BookOpen, GraduationCap, Code, Globe, Camera } from 'lucide-react' // updated icons
 import { addDoc, collection } from "firebase/firestore"
 import { db } from "@/config/firebase"
 
@@ -57,7 +57,6 @@ const AssignmentSubmissionForm: React.FC = () => {
         timeSubmitted: "",
       });
       alert("Assignment submitted successfully!");
-
     } catch (error) {
       console.error("Error submitting data:", error);
       alert("Failed to submit assignment. Please try again.");
@@ -165,7 +164,7 @@ const AssignmentSubmissionForm: React.FC = () => {
           <div className="space-y-4">
             <div className="space-y-2">
               <Label htmlFor="githubLink" className="flex items-center gap-2">
-                <Github className="h-4 w-4 text-blue-500" />
+                <Code className="h-4 w-4 text-blue-500" />
                 GitHub Repository Link <span className="text-red-500">*</span>
               </Label>
               <Input
@@ -195,7 +194,7 @@ const AssignmentSubmissionForm: React.FC = () => {
             </div>
             <div className="space-y-2">
               <Label htmlFor="instagramLink" className="flex items-center gap-2">
-                <Instagram className="h-4 w-4 text-blue-500" />
+                <Camera className="h-4 w-4 text-blue-500" />
                 Instagram Profile Link <span className="text-red-500">*</span>
               </Label>
               <Input
@@ -225,4 +224,3 @@ const AssignmentSubmissionForm: React.FC = () => {
 };
 
 export default AssignmentSubmissionForm;
-
