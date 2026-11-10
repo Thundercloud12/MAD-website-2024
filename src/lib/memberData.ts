@@ -53,12 +53,12 @@ export const teamData: TeamSection[] = [
     title: "Chairperson",
     members: [
       {
-        name: "Aryan Pathak",
+        name: "Shafin Mirkar",
         role: "Chairperson",
         image:
-          "https://firebasestorage.googleapis.com/v0/b/tsec-app.appspot.com/o/DevsMember%2F2025%2Faryancp.jpg?alt=media&token=caf8f08f-06d4-4919-9e55-8410c52057b8",
-        linkedin: "https://www.linkedin.com/in/aryan-pathak-67a39b290?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BiheHAm3DTd6TIeZpGA4ddw%3D%3D",
-        github: "https://github.com/CosmicRaptor",
+          "https://firebasestorage.googleapis.com/v0/b/tsec-app.appspot.com/o/DevsMember%2F2026%2Fshafincp.jpg?alt=media&token=12fd289d-77bd-43b4-9883-3ad3f0cc145b",
+        linkedin: "https://www.linkedin.com/in/shafin-mirkar-7a1ba0330",
+        github: "https://github.com/ShafinMirkar",
 
       },
     ],
@@ -67,12 +67,12 @@ export const teamData: TeamSection[] = [
     title: "Vice Chairperson",
     members: [
       {
-        name: "Juhi Deore",
+        name: "Nuha Ghojaria",
         role: "Vice Chairperson",
         image:
-          "https://firebasestorage.googleapis.com/v0/b/tsec-app.appspot.com/o/DevsMember%2F2025%2Fjuhivcp.jpg?alt=media&token=d0ebffd1-1ed1-40fb-80fa-80c53d73c401",
-        linkedin: "https://www.linkedin.com/in/juhideore?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bj7rrTlmSQBeXDD8Y5fNAiQ%3D%3D",
-        github: "https://github.com/juhid30",
+          "https://firebasestorage.googleapis.com/v0/b/tsec-app.appspot.com/o/DevsMember%2F2025%2Fnuha.jpg?alt=media&token=c0cb1525-33d3-4a16-96b0-7a256e283d1e",
+        linkedin: "https://www.linkedin.com/in/nuha-ghojaria-a9194a35a/",
+        github: "https://github.com/NuhaG",
 
       },
     ],
@@ -81,38 +81,37 @@ export const teamData: TeamSection[] = [
     title: "Web Team",
     members: [
       {
-        name: "Shree Takalkar",
+        name: "Keerthan Poojary",
         role: "Web Team Head",
         image:
-          "https://firebasestorage.googleapis.com/v0/b/tsec-app.appspot.com/o/DevsMember%2F2025%2Fshreet.jpg?alt=media&token=a17bca08-f601-49e3-8b41-32af8bf31d7d",
-        linkedin: "https://www.linkedin.com/in/shreetakalkar/",
-        github: "https://github.com/shreetakalkar",
-      },
-      {
-        name: "Darryl Mathias",
-        role: "Web Developer",
-        image:
-          "https://firebasestorage.googleapis.com/v0/b/tsec-app.appspot.com/o/DevsMember%2F2025%2Fdarryl.jpg?alt=media&token=ab389b19-c41e-4a8d-8e8c-3a84f36bd3c3",
-        linkedin: "https://www.linkedin.com/in/darryl-mathias-020241317?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BoF0d08KlSMi3GLegkROPew%3D%3D",
-        github: "https://github.com/DarrylMathias",
-
-      },
-      {
-        name: "Keerthan Poojary",
-        role: "Web Developer",
-        image:
-          "https://firebasestorage.googleapis.com/v0/b/tsec-app.appspot.com/o/DevsMember%2F2025%2Fkeerthan.jpg?alt=media&token=ff9a954e-67c2-4ea0-8e03-26a0e0508094",
+          "https://firebasestorage.googleapis.com/v0/b/tsec-app.appspot.com/o/DevsMember%2F2026%2Fkeerthanweblead.jpg?alt=media&token=22d72310-e6e8-4df5-ae2d-86dc7bf0a7e6",
         linkedin: "https://www.linkedin.com/in/keerthan-poojary-a33639255?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BDL%2Bn%2Bq94QfCEV5%2BdPvE%2Fng%3D%3D",
         github: "https://github.com/Thundercloud12",
 
       },
       {
-        name: "Nuha Ghojaria",
+        name: "Shivam Sharma",
         role: "Web Developer",
         image:
-          "https://firebasestorage.googleapis.com/v0/b/tsec-app.appspot.com/o/DevsMember%2F2025%2Fnuha.jpg?alt=media&token=c0cb1525-33d3-4a16-96b0-7a256e283d1e",
-        linkedin: "https://www.linkedin.com/in/nuha-ghojaria-a9194a35a/",
-        github: "https://github.com/NuhaG",
+          "https://firebasestorage.googleapis.com/v0/b/tsec-app.appspot.com/o/DevsMember%2F2026%2Fshivamwebteam.jpg?alt=media&token=f8ad7f63-9688-44b7-96ed-8a270ac60340",
+        linkedin: "https://www.linkedin.com/in/cyberbuddyshivam",
+        github: "https://github.com/cyberbuddyshivam",
+      },
+       {
+        name: "Yash Singh",
+        role: "Web Developer",
+        image:
+          "https://firebasestorage.googleapis.com/v0/b/tsec-app.appspot.com/o/DevsMember%2F2026%2Fyashwebteam.jpg?alt=media&token=6ac654e2-8c4e-4022-a164-438856c08a97",
+        linkedin: "https://www.linkedin.com/in/yashsingh18/",
+        github: "https://github.com/Yash-Singh18",
+      },
+      {
+        name: "Tejas Pathak",
+        role: "Web Developer",
+        image:
+          "https://firebasestorage.googleapis.com/v0/b/tsec-app.appspot.com/o/DevsMember%2F2026%2Ftejaswebteam.jpg?alt=media&token=f88e9469-b10c-486e-ad46-15f90b6105ef",
+        linkedin: "https://www.linkedin.com/in/tejas-pathak-8b289a283",
+        github: "https://github.com/Evilstein-debug",
       },
     ],
   },
@@ -121,26 +120,26 @@ export const teamData: TeamSection[] = [
     members: [
       {
         name: "Manish Rajarathinam",
-        role: "Mobile App Developer",
+        role: "App Head",
         image:
-          "https://firebasestorage.googleapis.com/v0/b/tsec-app.appspot.com/o/DevsMember%2F2025%2Fmanish.jpg?alt=media&token=38dff0bc-25a2-4d15-987c-2cd235016e06",
+          "https://firebasestorage.googleapis.com/v0/b/tsec-app.appspot.com/o/DevsMember%2F2026%2Fmanishapplead.jpg?alt=media&token=eaa5dbd7-ff8f-41d4-a875-0ccb33843c8b",
         linkedin: "https://www.linkedin.com/in/manish-rajarathinam-91466932b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BAltMvNBqRvWduGWPS0sx%2Bw%3D%3D",
         github: "https://github.com/coder2505",
 
       },
       {
-        name: "Ritesh Yadav",
+        name: "Sahil Patil",
         role: "Mobile App Developer",
         image:
-          "https://firebasestorage.googleapis.com/v0/b/tsec-app.appspot.com/o/DevsMember%2F2025%2Fritesh.jpg?alt=media&token=aded8e4b-51f4-43e4-be9f-584163ec8f28",
-        linkedin: "https://www.linkedin.com/in/ritesh-yadav-2a5a03289/",
-        github: "https://github.com/riteshy1802",
+          "https://firebasestorage.googleapis.com/v0/b/tsec-app.appspot.com/o/DevsMember%2F2026%2Fsahilappteam.jpg?alt=media&token=12c1ea52-acf5-4c9e-b63d-80e227c1f86c",
+        linkedin: "https://www.linkedin.com/in/saheel-patil",
+        github: "https://github.com/sahilpatil24",
       },
       {
         name: "Dhairya Jani",
         role: "Mobile App Developer",
         image:
-          "https://firebasestorage.googleapis.com/v0/b/tsec-app.appspot.com/o/DevsMember%2F2025%2Fdhairya.jpg?alt=media&token=ddaeb1b3-1e61-4a94-9b43-dadeb47538e5",
+          "https://firebasestorage.googleapis.com/v0/b/tsec-app.appspot.com/o/DevsMember%2F2026%2Fdhairyaappteam.jpg?alt=media&token=5aa60345-89d6-4407-a6d0-e2aff7eacecd",
         linkedin: "https://www.linkedin.com/in/dhairya-jani-8aa06a34b",
         github: "https://github.com/DhairyaJ-ani",
       },
@@ -151,19 +150,27 @@ export const teamData: TeamSection[] = [
     members: [
       {
         name: "Ayush Shukla",
-        role: "DevOps",
+        role: "DevOps Head",
         image:
-          "https://firebasestorage.googleapis.com/v0/b/tsec-app.appspot.com/o/DevsMember%2F2025%2Fayush.jpg?alt=media&token=e26d1214-90de-49f2-a898-ca6e621f54cd",
+          "https://firebasestorage.googleapis.com/v0/b/tsec-app.appspot.com/o/DevsMember%2F2026%2Fayushdevopslead.jpg?alt=media&token=c99ae95f-0ef7-47bf-bba8-e37a696bcfcc",
         linkedin: "https://www.linkedin.com/in/awyushshukla/",
         github: "https://github.com/awwyushh",
       },
       {
-        name: "Kavya Chetwani",
+        name: "Jiya Talreja",
         role: "DevOps",
         image:
-          "https://firebasestorage.googleapis.com/v0/b/tsec-app.appspot.com/o/DevsMember%2F2025%2Fkavya.jpg?alt=media&token=3fa148ca-f569-4c0f-b429-0e5531a13e4a",
-        linkedin: "https://www.linkedin.com/in/kavyachetwani?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BKPY%2F8BkvSte0KpArv5xMkA%3D%3D",
-        github: "https://github.com/kavyachetwani",
+          "https://firebasestorage.googleapis.com/v0/b/tsec-app.appspot.com/o/DevsMember%2F2026%2Fjiyadevopsteam.jpg?alt=media&token=5fef2ea7-edff-4b9e-9562-eb8a911446ad",
+        linkedin: "https://www.linkedin.com/in/jiyatalreja",
+        github: "https://github.com/jiya-talreja",
+      },
+      {
+        name: "Saquib Shaikh",
+        role: "DevOps",
+        image:
+          "https://firebasestorage.googleapis.com/v0/b/tsec-app.appspot.com/o/DevsMember%2F2026%2Fsaquibdevops.jpg?alt=media&token=cb3b48af-bf5c-4f69-8b92-491c1a8c3a46",
+        linkedin: "https://www.linkedin.com/in/saquib-s",
+        github: "https://github.com/ryuma04",
       },
     ],
   },
@@ -171,19 +178,25 @@ export const teamData: TeamSection[] = [
     title: "Design & SMM Team",
     members: [
       {
-        name: "Sanika Sawant",
-        role: "Graphic Designer",
+        name: "Saanvi Kulkarni",
+        role: "UI/UX Designer",
         image:
-          "https://firebasestorage.googleapis.com/v0/b/tsec-app.appspot.com/o/DevsMember%2F2025%2Fsanika.jpg?alt=media&token=1adb5448-df33-40e0-aae9-860073c6700f",
-        linkedin: "https://www.linkedin.com/in/sanika-sawant-33428a293?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-        github: "https://github.com/SanikaSawant2110",
+          "https://firebasestorage.googleapis.com/v0/b/tsec-app.appspot.com/o/DevsMember%2F2026%2Fsaanvidesignlead.jpg?alt=media&token=e6459931-3f58-448b-9ebc-a23e9db12c75",
+        linkedin: "",
+        github: "",
 
       },
       {
-        name: "Lubaib Mir",
+        name: "Mugadha Prabhu",
         role: "UI/UX Designer",
-        image: "https://firebasestorage.googleapis.com/v0/b/tsec-app.appspot.com/o/DevsMember%2F2025%2Flubaib.jpg?alt=media&token=27458288-48e7-4c7b-ae7d-0bc7e495c704",
-
+        image: "https://firebasestorage.googleapis.com/v0/b/tsec-app.appspot.com/o/DevsMember%2F2026%2Fmugdhadesign.jpg?alt=media&token=b0380bb2-fc16-4f40-b736-924da377ec98",
+        linkedin: "https://www.linkedin.com/in/lubaib-mir-2b762b323?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        github: "https://github.com/lubaibmir",
+      },
+      {
+        name: "Shreeya Satav",
+        role: "UI/UX Designer",
+        image: "https://firebasestorage.googleapis.com/v0/b/tsec-app.appspot.com/o/DevsMember%2F2026%2Fshreeyadesignteam.jpg?alt=media&token=67acb148-8391-48ee-97a5-dccdd2c798ad",
         linkedin: "https://www.linkedin.com/in/lubaib-mir-2b762b323?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
         github: "https://github.com/lubaibmir",
       },
@@ -192,21 +205,30 @@ export const teamData: TeamSection[] = [
   {
     title: "Product Management Team",
     members: [
-      {
-        name: "Vaibhav Sharma",
-        role: "PM Head",
-        image:
-          "https://firebasestorage.googleapis.com/v0/b/tsec-app.appspot.com/o/DevsMember%2F2025%2Fvaibhav.jpg?alt=media&token=cced8c71-05e2-4aa2-8ee7-3d007882acf1",
-        linkedin: "https://www.linkedin.com/in/vaibhav-sharma-36b39628b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B3BDYNDYPQc%2BHKJ2go75d4A%3D%3D",
-        github: "https://github.com/vaiibbbhav",
-      },
+      
       {
         name: "Richa Sharangdhar",
-        role: "Product Manager",
+        role: "PM Head",
         image:
-          "https://firebasestorage.googleapis.com/v0/b/tsec-app.appspot.com/o/DevsMember%2F2025%2Fricha.jpg?alt=media&token=6b7c3bec-9331-4dcb-9bd3-9be14d40130b",
+          "https://firebasestorage.googleapis.com/v0/b/tsec-app.appspot.com/o/DevsMember%2F2026%2Frichapmlead.jpg?alt=media&token=605815ca-da8f-499b-9485-37304c01e04d",
         linkedin: "https://www.linkedin.com/in/richa-sharangdhar-987100324",
         github: "https://github.com/richa866",
+      },
+      {
+        name: "Mayuresh Atlani",
+        role: "Product Manager",
+        image:
+          "https://firebasestorage.googleapis.com/v0/b/tsec-app.appspot.com/o/DevsMember%2F2026%2Fmayureshpm.jpg?alt=media&token=a18369af-e0b8-4933-87a7-3fe5d5e84e52",
+        linkedin: "https://www.linkedin.com/in/mayuresh-atlani/",
+        github: "https://github.com/MayurAtlani01",
+      },
+      {
+        name: "Pratyush Nair",
+        role: "Product Manager",
+        image:
+          "https://firebasestorage.googleapis.com/v0/b/tsec-app.appspot.com/o/DevsMember%2F2026%2Fpratyushpmteam.jpg?alt=media&token=2a8b04e6-4d5b-4adf-8d1e-29a9474fc62b",
+        linkedin: "",
+        github: "",
       },
     ],
   },
